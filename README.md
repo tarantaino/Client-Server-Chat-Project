@@ -9,7 +9,11 @@ First, you need to start the server via terminal. To use the client you need to 
 
 # Command List
 !register - Send your data (nickname, IP & port) to the server
+
 !quit - To quit
+
 !who - Available users list
+
 !connect client_name - Start a chat with a user")
+
 !disconnect - Disconnect from the chat

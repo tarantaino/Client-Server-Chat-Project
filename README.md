@@ -14,6 +14,6 @@ First, you need to start the server via terminal. To use the client you need to 
 
 !who - Available users list
 
-!connect client_name - Start a chat with a user")
+!connect client_name - Start a chat with a user
 
 !disconnect - Disconnect from the chat
